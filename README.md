@@ -1,1 +1,1 @@
-# crazy-linked-list
+Собственная PopItка реализации LinkedList
